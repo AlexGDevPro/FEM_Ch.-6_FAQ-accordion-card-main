@@ -33,14 +33,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/mobile-first-custom-bootstrap-accordion-zsQLZZqJe](https://www.frontendmentor.io/solutions/mobile-first-custom-bootstrap-accordion-zsQLZZqJe)
 - Live Site URL: [https://alexgdevpro.github.io/FEM_Ch.-6_FAQ-accordion-card-main/](https://alexgdevpro.github.io/FEM_Ch.-6_FAQ-accordion-card-main/)
 
 ## My process
 
 ### Built with
 
--[Bootstrap](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 - Mobile-first workflow
 - Semantic HTML5 markup
 - CSS custom properties
